@@ -1,6 +1,5 @@
 # NodeSpecs
-Trabalho do João Paulo Voigtlaender
-Um trabalho requisitando uma grande quantidade de documentos Node para melhor compreensão.
+Trabalho proposto pelo professor João Paulo Voigtlaender, requisitando uma grande quantidade de documentos Node, para melhor compreensão.
 
 Um repositório para analisar:
 
